@@ -1,4 +1,4 @@
-<img src= "file:///Users/simonkluegel/Library/Containers/com.apple.mail/Data/Library/Mail%20Downloads/E665F964-4814-4B53-83F3-884887A6F6DB/logo.svg" width="1000">
+<img src= "https://github.com/user-attachments/assets/07b42cfa-0f0a-48f3-803f-db1550bbf074" width="1000" >
 
 
 <!--
