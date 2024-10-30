@@ -1,9 +1,10 @@
-## Hi there 👋
+![logo](https://github.com/user-attachments/assets/c63f6e08-52ee-408f-a62b-c2fcad6e6593)## Hi there 👋
 
 <a href="file:///Users/simonkluegel/Library/Containers/com.apple.mail/Data/Library/Mail%20Downloads/D77E14F9-BAAE-4A02-83CF-3B0E3825767D/logo.svg" target="blank" >
 <img align="center"
 src "file:///Users/simonkluegel/Library/Containers/com.apple.mail/Data/Library/Mail%20Downloads/D77E14F9-BAAE-4A02-83CF-3B0E3825767D/logo.svg" height="100" />
-</a>
+</a>![Uploading logo.svg…]()
+
 
 <!--
 **simonkluegel/simonkluegel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
