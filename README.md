@@ -1,6 +1,7 @@
 Hey there! I'm Simon, a passionate student research assistant at the Department of Exercise Physiology in Giessen. I'm constantly exploring new skills and tools to enhance my research and technical expertise. Here, you'll find a collection of my latest projects, which focus on applying coding and data analysis in scientific research.
-
-Feel free to reach out if you're interested in my work or have collaboration ideas! 📧 simon-kluegel@sport.uni-giessen.de
+Feel free to reach out if you're interested in my work or have collaboration ideas! 
+📧 simon-kluegel@sport.uni-giessen.de
+------------------------------------------------------------------------------------------------------------------------------------------
 
 
 <img src= "https://github.com/user-attachments/assets/07b42cfa-0f0a-48f3-803f-db1550bbf074" width="1000" >
